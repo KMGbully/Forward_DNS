@@ -33,7 +33,7 @@ agakhan
 agency
 ai
 aig
-aigo
+aigo 
 airbus
 airforce
 airtel
